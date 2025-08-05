@@ -2,7 +2,7 @@
 // var fileName= "pdfData.jpg";
 //write your code here
 
-var fileName = ['result.pdf', 'data.docx', 'pdfData.jpg', '#exp.mp4', 'docx.txt', 'docx.xpdf', 'slipdf.txt'];
+var fileName = ['data.docx'];
 for (var files = 0; files<fileName.length; files++){
     var file = fileName[files];
 
@@ -19,6 +19,7 @@ for (var files = 0; files<fileName.length; files++){
 }
 
 
+// solve another way
 
 // var fileName= ['result.pdf', 'data.docx', 'pdfData.jpg', '#exp.mp4', 'docx.txt', 'docx.xpdf', 'slipdf.txt' ];
 
